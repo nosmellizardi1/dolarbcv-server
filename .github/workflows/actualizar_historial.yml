@@ -1,0 +1,37 @@
+name: Actualizar Historial Diario
+
+on:
+  schedule:
+    - cron: '30 23 * * *' # Ejecutar a las 23:30 UTC todos los días
+  workflow_dispatch: # Permite ejecución manual
+
+permissions:
+  contents: write
+
+jobs:
+  update-history:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      # Primero aseguramos tener la tasa más reciente por si acaso
+      - name: Obtener tasa actual (por seguridad)
+        run: node index.js
+
+      - name: Guardar en Historial
+        run: node historial.js
+
+      - name: Guardar cambios (Commit & Push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📜 Actualización diaria del historial"
+          file_pattern: 'historia.json rates.json'
