@@ -1,0 +1,33 @@
+name: Actualizar Tasa BCV
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Se ejecuta cada hora en punto
+  workflow_dispatch: # Te permite ejecutarlo manualmente si quieres
+
+permissions:
+  contents: write # Permiso para que el bot guarde el archivo json en el repo
+
+jobs:
+  scraping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Correr script de scraping
+        run: node index.js
+
+      - name: Guardar cambios (Commit & Push)
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Actualización automática de tasa BCV"
+          file_pattern: 'rates.json'
