@@ -23,7 +23,7 @@ async function obtenerTasaBCV() {
 
         // Extraer el valor
         const tasaTexto = $("#dolar .centrado strong").text().trim();
-        const tasaUSD = parseFloat(tasaTexto.replace(",", ".")).toFixed(2); // Redondeado a 2 decimales para app
+        const tasaUSD = parseFloat(tasaTexto.replace(",", ".")).toFixed(3); // Redondeado a 2 decimales para app
 
         if (isNaN(tasaUSD)) {
             throw new Error(`No se pudo leer la tasa. Texto encontrado: ${tasaTexto}`);
