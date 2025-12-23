@@ -23,9 +23,29 @@ async function actualizarHistorial() {
     }
 
     const ratesData = JSON.parse(fs.readFileSync(RATES_FILE, 'utf8'));
-    const tasa = parseFloat(ratesData.tasaUSD);
+    const tasaEUR = parseFloat(ratesData.tasaEUR);
+    const tasaYUAN = parseFloat(ratesData.tasaYUAN);
+    const tasaLIRA = parseFloat(ratesData.tasaLIRA);
+    const tasaRUBLO = parseFloat(ratesData.tasaRUBLO);
+    const tasaUSD = parseFloat(ratesData.tasaUSD);
 
-    if (isNaN(tasa)) {
+    if (isNaN(tasaUSD)) {
+        console.error('❌ La tasa en rates.json no es un número válido.');
+        process.exit(1);
+    }
+    if (isNaN(tasaEUR)) {
+        console.error('❌ La tasa en rates.json no es un número válido.');
+        process.exit(1);
+    }
+    if (isNaN(tasaYUAN)) {
+        console.error('❌ La tasa en rates.json no es un número válido.');
+        process.exit(1);
+    }
+    if (isNaN(tasaLIRA)) {
+        console.error('❌ La tasa en rates.json no es un número válido.');
+        process.exit(1);
+    }
+    if (isNaN(tasaRUBLO)) {
         console.error('❌ La tasa en rates.json no es un número válido.');
         process.exit(1);
     }
@@ -55,10 +75,17 @@ async function actualizarHistorial() {
         historia[anio][mesNombre] = {};
     }
 
-    // Guardar el valor
-    historia[anio][mesNombre][dia] = tasa;
+    const valor = {
+        tasaUSD: tasaUSD,
+        tasaEUR: tasaEUR,
+        tasaYUAN: tasaYUAN,
+        tasaLIRA: tasaLIRA,
+        tasaRUBLO: tasaRUBLO,
+        fecha_actualizacion: new Date().toISOString(),
+    };
+    historia[anio][mesNombre][dia] = valor;
 
-    console.log(`✅ Guardando tasa ${tasa} para fecha: ${dia} de ${mesNombre}, ${anio}`);
+    console.log(`✅ Guardando tasa ${tasaUSD} para fecha: ${dia} de ${mesNombre}, ${anio}`);
 
     // 5. Escribir archivo
     fs.writeFileSync(HISTORY_FILE, JSON.stringify(historia, null, 2));
