@@ -1,5 +1,14 @@
 {
   "2025": {
-    "diciembre": {}
+    "diciembre": {
+      "23": {
+        "tasaUSD": 288.449,
+        "tasaEUR": 339.251,
+        "tasaYUAN": 40.996,
+        "tasaLIRA": 6.738,
+        "tasaRUBLO": 3.667,
+        "fecha_actualizacion": "2025-12-23T16:03:50.332Z"
+      }
+    }
   }
 }
