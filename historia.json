@@ -129,6 +129,14 @@
         "tasaRUBLO": 3.66668149,
         "tasaUSD": 288.4494
       },
+      "24": {
+        "tasaUSD": 291.352,
+        "tasaEUR": 342.936,
+        "tasaYUAN": 41.459,
+        "tasaLIRA": 6.815,
+        "tasaRUBLO": 3.727,
+        "fecha_actualizacion": "2025-12-24T23:38:38.226Z"
+      },
       "26": {
         "fecha_actualizacion": "2025-12-26T00:00:00.000Z",
         "tasaEUR": 342.93634242,
