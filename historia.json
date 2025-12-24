@@ -1,5 +1,474 @@
 {
   "2025": {
-    "diciembre": {}
+    "diciembre": {
+      "1": {
+        "fecha_actualizacion": "2025-12-01T00:00:00.000Z",
+        "tasaEUR": 286.40342343,
+        "tasaYUAN": 34.95855303,
+        "tasaLIRA": 5.8196111,
+        "tasaRUBLO": 3.17843831,
+        "tasaUSD": 247.3003
+      },
+      "2": {
+        "fecha_actualizacion": "2025-12-02T00:00:00.000Z",
+        "tasaEUR": 287.82847199,
+        "tasaYUAN": 34.98551974,
+        "tasaLIRA": 5.83061764,
+        "tasaRUBLO": 3.18264568,
+        "tasaUSD": 247.4071
+      },
+      "3": {
+        "fecha_actualizacion": "2025-12-03T00:00:00.000Z",
+        "tasaEUR": 289.1604356,
+        "tasaYUAN": 35.24487659,
+        "tasaLIRA": 5.87133658,
+        "tasaRUBLO": 3.22041873,
+        "tasaUSD": 249.1989
+      },
+      "4": {
+        "fecha_actualizacion": "2025-12-04T00:00:00.000Z",
+        "tasaEUR": 293.88125062,
+        "tasaYUAN": 35.66133393,
+        "tasaLIRA": 5.93425795,
+        "tasaRUBLO": 3.24638097,
+        "tasaUSD": 251.8867
+      },
+      "5": {
+        "fecha_actualizacion": "2025-12-05T00:00:00.000Z",
+        "tasaEUR": 297.37780199,
+        "tasaYUAN": 36.04243855,
+        "tasaLIRA": 6.00449741,
+        "tasaRUBLO": 3.30185904,
+        "tasaUSD": 254.8705
+      },
+      "9": {
+        "fecha_actualizacion": "2025-12-09T00:00:00.000Z",
+        "tasaEUR": 300.50756979,
+        "tasaYUAN": 36.48678049,
+        "tasaLIRA": 6.06848222,
+        "tasaRUBLO": 3.36665283,
+        "tasaUSD": 257.9287
+      },
+      "10": {
+        "fecha_actualizacion": "2025-12-10T00:00:00.000Z",
+        "tasaEUR": 304.84745508,
+        "tasaYUAN": 37.11043778,
+        "tasaLIRA": 6.15398413,
+        "tasaRUBLO": 3.39846558,
+        "tasaUSD": 262.1036
+      },
+      "11": {
+        "fecha_actualizacion": "2025-12-11T00:00:00.000Z",
+        "tasaEUR": 308.81802697,
+        "tasaYUAN": 37.53415463,
+        "tasaLIRA": 6.22253407,
+        "tasaRUBLO": 3.40182163,
+        "tasaUSD": 265.0662
+      },
+      "12": {
+        "fecha_actualizacion": "2025-12-12T00:00:00.000Z",
+        "tasaEUR": 314.38122258,
+        "tasaYUAN": 37.93781172,
+        "tasaLIRA": 6.28271648,
+        "tasaRUBLO": 3.37115873,
+        "tasaUSD": 267.7499
+      },
+      "15": {
+        "fecha_actualizacion": "2025-12-15T00:00:00.000Z",
+        "tasaEUR": 317.89851452,
+        "tasaYUAN": 38.38532851,
+        "tasaLIRA": 6.34273929,
+        "tasaRUBLO": 3.40038048,
+        "tasaUSD": 270.7893
+      },
+      "16": {
+        "fecha_actualizacion": "2025-12-16T00:00:00.000Z",
+        "tasaEUR": 321.87404665,
+        "tasaYUAN": 38.82581423,
+        "tasaLIRA": 6.40770884,
+        "tasaRUBLO": 3.45519012,
+        "tasaUSD": 273.5861
+      },
+      "17": {
+        "fecha_actualizacion": "2025-12-17T00:00:00.000Z",
+        "tasaEUR": 326.15607509,
+        "tasaYUAN": 39.28035392,
+        "tasaLIRA": 6.47577002,
+        "tasaRUBLO": 3.47660199,
+        "tasaUSD": 276.5769
+      },
+      "18": {
+        "fecha_actualizacion": "2025-12-18T00:00:00.000Z",
+        "tasaEUR": 328.37178671,
+        "tasaYUAN": 39.69485147,
+        "tasaLIRA": 6.5440141,
+        "tasaRUBLO": 3.47992058,
+        "tasaUSD": 279.5629
+      },
+      "19": {
+        "fecha_actualizacion": "2025-12-19T00:00:00.000Z",
+        "tasaEUR": 331.18975544,
+        "tasaYUAN": 40.12965909,
+        "tasaLIRA": 6.61111553,
+        "tasaRUBLO": 3.54070434,
+        "tasaUSD": 282.5128
+      },
+      "22": {
+        "fecha_actualizacion": "2025-12-22T00:00:00.000Z",
+        "tasaEUR": 334.40028403,
+        "tasaYUAN": 40.53781035,
+        "tasaLIRA": 6.69204652,
+        "tasaRUBLO": 3.54801591,
+        "tasaUSD": 285.4024
+      },
+      "23": {
+        "fecha_actualizacion": "2025-12-23T00:00:00.000Z",
+        "tasaEUR": 339.25110832,
+        "tasaYUAN": 40.99563678,
+        "tasaLIRA": 6.73810544,
+        "tasaRUBLO": 3.66668149,
+        "tasaUSD": 288.4494
+      },
+      "26": {
+        "fecha_actualizacion": "2025-12-26T00:00:00.000Z",
+        "tasaEUR": 342.93634242,
+        "tasaYUAN": 41.45889718,
+        "tasaLIRA": 6.81526081,
+        "tasaRUBLO": 3.72661563,
+        "tasaUSD": 291.3524
+      }
+    },
+    "noviembre": {
+      "3": {
+        "fecha_actualizacion": "2025-11-03T00:00:00.000Z",
+        "tasaEUR": 258.1477902,
+        "tasaYUAN": 31.47127761,
+        "tasaLIRA": 5.32663744,
+        "tasaRUBLO": 2.77232407,
+        "tasaUSD": 223.9622
+      },
+      "4": {
+        "fecha_actualizacion": "2025-11-04T00:00:00.000Z",
+        "tasaEUR": 258.41406954,
+        "tasaYUAN": 31.51129836,
+        "tasaLIRA": 5.33673772,
+        "tasaRUBLO": 2.7807188,
+        "tasaUSD": 224.3762
+      },
+      "5": {
+        "fecha_actualizacion": "2025-11-05T00:00:00.000Z",
+        "tasaEUR": 259.63399488,
+        "tasaYUAN": 31.74964547,
+        "tasaLIRA": 5.37310861,
+        "tasaRUBLO": 2.79283446,
+        "tasaUSD": 226.1305
+      },
+      "6": {
+        "fecha_actualizacion": "2025-11-06T00:00:00.000Z",
+        "tasaEUR": 261.16227345,
+        "tasaYUAN": 31.93106012,
+        "tasaLIRA": 5.40623878,
+        "tasaRUBLO": 2.79746139,
+        "tasaUSD": 227.5567
+      },
+      "7": {
+        "fecha_actualizacion": "2025-11-07T00:00:00.000Z",
+        "tasaEUR": 263.29303665,
+        "tasaYUAN": 32.09208511,
+        "tasaLIRA": 5.42545799,
+        "tasaRUBLO": 2.81531371,
+        "tasaUSD": 228.4796
+      },
+      "10": {
+        "fecha_actualizacion": "2025-11-10T00:00:00.000Z",
+        "tasaEUR": 267.63929715,
+        "tasaYUAN": 32.45030898,
+        "tasaLIRA": 5.47371837,
+        "tasaRUBLO": 2.85288009,
+        "tasaUSD": 231.0462
+      },
+      "11": {
+        "fecha_actualizacion": "2025-11-11T00:00:00.000Z",
+        "tasaEUR": 267.27615626,
+        "tasaYUAN": 32.46474579,
+        "tasaLIRA": 5.47190594,
+        "tasaRUBLO": 2.84249964,
+        "tasaUSD": 231.0938
+      },
+      "12": {
+        "fecha_actualizacion": "2025-11-12T00:00:00.000Z",
+        "tasaEUR": 270.25622288,
+        "tasaYUAN": 32.7495503,
+        "tasaLIRA": 5.51889435,
+        "tasaRUBLO": 2.87882527,
+        "tasaUSD": 233.0458
+      },
+      "13": {
+        "fecha_actualizacion": "2025-11-13T00:00:00.000Z",
+        "tasaEUR": 270.32890854,
+        "tasaYUAN": 32.81824441,
+        "tasaLIRA": 5.528972,
+        "tasaRUBLO": 2.87455507,
+        "tasaUSD": 233.5576
+      },
+      "14": {
+        "fecha_actualizacion": "2025-11-14T00:00:00.000Z",
+        "tasaEUR": 273.08039562,
+        "tasaYUAN": 33.09867391,
+        "tasaLIRA": 5.5591677,
+        "tasaRUBLO": 2.90850292,
+        "tasaUSD": 234.8715
+      },
+      "17": {
+        "fecha_actualizacion": "2025-11-17T00:00:00.000Z",
+        "tasaEUR": 274.84230343,
+        "tasaYUAN": 33.31033851,
+        "tasaLIRA": 5.58626986,
+        "tasaRUBLO": 2.92621114,
+        "tasaUSD": 236.4601
+      },
+      "18": {
+        "fecha_actualizacion": "2025-11-18T00:00:00.000Z",
+        "tasaEUR": 274.35655014,
+        "tasaYUAN": 33.32286068,
+        "tasaLIRA": 5.59686107,
+        "tasaRUBLO": 2.91323001,
+        "tasaUSD": 236.8389
+      },
+      "19": {
+        "fecha_actualizacion": "2025-11-19T00:00:00.000Z",
+        "tasaEUR": 275.81435505,
+        "tasaYUAN": 33.45018008,
+        "tasaLIRA": 5.61524272,
+        "tasaRUBLO": 2.93264972,
+        "tasaUSD": 237.7505
+      },
+      "20": {
+        "fecha_actualizacion": "2025-11-20T00:00:00.000Z",
+        "tasaEUR": 277.61389726,
+        "tasaYUAN": 33.80373595,
+        "tasaLIRA": 5.67580352,
+        "tasaRUBLO": 2.97977081,
+        "tasaUSD": 240.3209
+      },
+      "21": {
+        "fecha_actualizacion": "2025-11-21T00:00:00.000Z",
+        "tasaEUR": 278.42830812,
+        "tasaYUAN": 33.95811076,
+        "tasaLIRA": 5.70180345,
+        "tasaRUBLO": 3.01257014,
+        "tasaUSD": 241.578
+      },
+      "25": {
+        "fecha_actualizacion": "2025-11-25T00:00:00.000Z",
+        "tasaEUR": 280.04870937,
+        "tasaYUAN": 34.2057462,
+        "tasaLIRA": 5.72783475,
+        "tasaRUBLO": 3.07773768,
+        "tasaUSD": 243.1105
+      },
+      "26": {
+        "fecha_actualizacion": "2025-11-26T00:00:00.000Z",
+        "tasaEUR": 281.7600279,
+        "tasaYUAN": 34.38349802,
+        "tasaLIRA": 5.74117278,
+        "tasaRUBLO": 3.09211105,
+        "tasaUSD": 243.5727
+      },
+      "27": {
+        "fecha_actualizacion": "2025-11-27T00:00:00.000Z",
+        "tasaEUR": 283.49843701,
+        "tasaYUAN": 34.56978945,
+        "tasaLIRA": 5.76407501,
+        "tasaRUBLO": 3.11742736,
+        "tasaUSD": 244.6504
+      },
+      "28": {
+        "fecha_actualizacion": "2025-11-28T00:00:00.000Z",
+        "tasaEUR": 284.88104081,
+        "tasaYUAN": 34.6956798,
+        "tasaLIRA": 5.78944056,
+        "tasaRUBLO": 3.13951678,
+        "tasaUSD": 245.6697
+      }
+    },
+    "octubre": {
+      "2": {
+        "fecha_actualizacion": "2025-10-02T00:00:00.000Z",
+        "tasaEUR": 212.94300868,
+        "tasaYUAN": 25.46936854,
+        "tasaLIRA": 4.36033737,
+        "tasaRUBLO": 2.22949015,
+        "tasaUSD": 181.3037
+      },
+      "3": {
+        "fecha_actualizacion": "2025-10-03T00:00:00.000Z",
+        "tasaEUR": 214.52290192,
+        "tasaYUAN": 25.72689471,
+        "tasaLIRA": 4.40139508,
+        "tasaRUBLO": 2.24851868,
+        "tasaUSD": 183.1369
+      },
+      "6": {
+        "fecha_actualizacion": "2025-10-06T00:00:00.000Z",
+        "tasaEUR": 217.64833428,
+        "tasaYUAN": 26.04274476,
+        "tasaLIRA": 4.44800773,
+        "tasaRUBLO": 2.25985251,
+        "tasaUSD": 185.3983
+      },
+      "7": {
+        "fecha_actualizacion": "2025-10-07T00:00:00.000Z",
+        "tasaEUR": 219.40192337,
+        "tasaYUAN": 26.31021984,
+        "tasaLIRA": 4.49208264,
+        "tasaRUBLO": 2.25542422,
+        "tasaUSD": 187.2893
+      },
+      "8": {
+        "fecha_actualizacion": "2025-10-08T00:00:00.000Z",
+        "tasaEUR": 220.93574577,
+        "tasaYUAN": 26.58511026,
+        "tasaLIRA": 4.53836617,
+        "tasaRUBLO": 2.3061122,
+        "tasaUSD": 189.2594
+      },
+      "9": {
+        "fecha_actualizacion": "2025-10-09T00:00:00.000Z",
+        "tasaEUR": 222.27746613,
+        "tasaYUAN": 26.88292477,
+        "tasaLIRA": 4.5876244,
+        "tasaRUBLO": 2.34833844,
+        "tasaUSD": 191.3661
+      },
+      "10": {
+        "fecha_actualizacion": "2025-10-10T00:00:00.000Z",
+        "tasaEUR": 223.63797222,
+        "tasaYUAN": 27.13357664,
+        "tasaLIRA": 4.63401513,
+        "tasaRUBLO": 2.37967826,
+        "tasaUSD": 193.2996
+      },
+      "13": {
+        "fecha_actualizacion": "2025-10-13T00:00:00.000Z",
+        "tasaEUR": 226.03597808,
+        "tasaYUAN": 27.41685038,
+        "tasaLIRA": 4.66833954,
+        "tasaRUBLO": 2.39202572,
+        "tasaUSD": 195.2491
+      },
+      "14": {
+        "fecha_actualizacion": "2025-10-14T00:00:00.000Z",
+        "tasaEUR": 228.09086692,
+        "tasaYUAN": 27.65836079,
+        "tasaLIRA": 4.7205334,
+        "tasaRUBLO": 2.45333094,
+        "tasaUSD": 197.2456
+      },
+      "15": {
+        "fecha_actualizacion": "2025-10-15T00:00:00.000Z",
+        "tasaEUR": 230.45264649,
+        "tasaYUAN": 27.8912407,
+        "tasaLIRA": 4.76002773,
+        "tasaRUBLO": 2.49676097,
+        "tasaUSD": 199.1072
+      },
+      "16": {
+        "fecha_actualizacion": "2025-10-16T00:00:00.000Z",
+        "tasaEUR": 234.20077692,
+        "tasaYUAN": 28.27322227,
+        "tasaLIRA": 4.81529151,
+        "tasaRUBLO": 2.55613975,
+        "tasaUSD": 201.4665
+      },
+      "17": {
+        "fecha_actualizacion": "2025-10-17T00:00:00.000Z",
+        "tasaEUR": 237.92379534,
+        "tasaYUAN": 28.60058677,
+        "tasaLIRA": 4.86832893,
+        "tasaRUBLO": 2.5315383,
+        "tasaUSD": 203.742
+      },
+      "20": {
+        "fecha_actualizacion": "2025-10-20T00:00:00.000Z",
+        "tasaEUR": 239.9244676,
+        "tasaYUAN": 28.87199067,
+        "tasaLIRA": 4.90483435,
+        "tasaRUBLO": 2.52858864,
+        "tasaUSD": 205.6754
+      },
+      "21": {
+        "fecha_actualizacion": "2025-10-21T00:00:00.000Z",
+        "tasaEUR": 242.21498744,
+        "tasaYUAN": 29.19323718,
+        "tasaLIRA": 4.96486518,
+        "tasaRUBLO": 2.57187039,
+        "tasaUSD": 207.8938
+      },
+      "22": {
+        "fecha_actualizacion": "2025-10-22T00:00:00.000Z",
+        "tasaEUR": 244.02232712,
+        "tasaYUAN": 29.53530345,
+        "tasaLIRA": 5.01118853,
+        "tasaRUBLO": 2.58445657,
+        "tasaUSD": 210.2825
+      },
+      "23": {
+        "fecha_actualizacion": "2025-10-23T00:00:00.000Z",
+        "tasaEUR": 246.67870184,
+        "tasaYUAN": 29.81097689,
+        "tasaLIRA": 5.06222125,
+        "tasaRUBLO": 2.60342134,
+        "tasaUSD": 212.4837
+      },
+      "24": {
+        "fecha_actualizacion": "2025-10-24T00:00:00.000Z",
+        "tasaEUR": 249.02193822,
+        "tasaYUAN": 30.10910775,
+        "tasaLIRA": 5.10711121,
+        "tasaRUBLO": 2.63932791,
+        "tasaUSD": 214.419
+      },
+      "27": {
+        "fecha_actualizacion": "2025-10-27T00:00:00.000Z",
+        "tasaEUR": 251.65508419,
+        "tasaYUAN": 30.37942799,
+        "tasaLIRA": 5.1591439,
+        "tasaRUBLO": 2.70521735,
+        "tasaUSD": 216.3714
+      },
+      "28": {
+        "fecha_actualizacion": "2025-10-28T00:00:00.000Z",
+        "tasaEUR": 253.9040643,
+        "tasaYUAN": 30.68883543,
+        "tasaLIRA": 5.20489642,
+        "tasaRUBLO": 2.74994958,
+        "tasaUSD": 218.17
+      },
+      "29": {
+        "fecha_actualizacion": "2025-10-29T00:00:00.000Z",
+        "tasaEUR": 256.36174051,
+        "tasaYUAN": 30.97205279,
+        "tasaLIRA": 5.24167763,
+        "tasaRUBLO": 2.77142406,
+        "tasaUSD": 219.8737
+      },
+      "30": {
+        "fecha_actualizacion": "2025-10-30T00:00:00.000Z",
+        "tasaEUR": 258.34261419,
+        "tasaYUAN": 31.23812072,
+        "tasaLIRA": 5.28614519,
+        "tasaRUBLO": 2.7723173,
+        "tasaUSD": 221.7438
+      },
+      "31": {
+        "fecha_actualizacion": "2025-10-31T00:00:00.000Z",
+        "tasaEUR": 258.80974485,
+        "tasaYUAN": 31.4586592,
+        "tasaLIRA": 5.3286959,
+        "tasaRUBLO": 2.79086416,
+        "tasaUSD": 223.6459
+      }
+    }
   }
 }
