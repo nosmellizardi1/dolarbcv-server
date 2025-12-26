@@ -146,12 +146,12 @@
         "fecha_actualizacion": "2025-12-25T23:38:45.730Z"
       },
       "26": {
-        "fecha_actualizacion": "2025-12-26T00:00:00.000Z",
-        "tasaEUR": 342.93634242,
-        "tasaYUAN": 41.45889718,
-        "tasaLIRA": 6.81526081,
-        "tasaRUBLO": 3.72661563,
-        "tasaUSD": 291.3524
+        "tasaUSD": 294.97,
+        "tasaEUR": 347.778,
+        "tasaYUAN": 42.102,
+        "tasaLIRA": 6.873,
+        "tasaRUBLO": 3.804,
+        "fecha_actualizacion": "2025-12-26T23:38:49.387Z"
       }
     },
     "noviembre": {
