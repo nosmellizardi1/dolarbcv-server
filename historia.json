@@ -526,5 +526,17 @@
         "tasaUSD": 223.6459
       }
     }
+  },
+  "2026": {
+    "enero": {
+      "1": {
+        "tasaUSD": 301.371,
+        "tasaEUR": 354.494,
+        "tasaYUAN": 43.102,
+        "tasaLIRA": 7.018,
+        "tasaRUBLO": 3.777,
+        "fecha_actualizacion": "2026-01-01T23:39:48.810Z"
+      }
+    }
   }
 }
