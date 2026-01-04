@@ -552,6 +552,14 @@
         "tasaLIRA": 7.079,
         "tasaRUBLO": 3.794,
         "fecha_actualizacion": "2026-01-03T23:38:28.493Z"
+      },
+      "4": {
+        "tasaUSD": 304.68,
+        "tasaEUR": 357.886,
+        "tasaYUAN": 43.572,
+        "tasaLIRA": 7.079,
+        "tasaRUBLO": 3.794,
+        "fecha_actualizacion": "2026-01-04T23:39:12.995Z"
       }
     }
   }
