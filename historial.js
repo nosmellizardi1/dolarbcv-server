@@ -28,6 +28,7 @@ async function actualizarHistorial() {
     const tasaLIRA = parseFloat(ratesData.tasaLIRA);
     const tasaRUBLO = parseFloat(ratesData.tasaRUBLO);
     const tasaUSD = parseFloat(ratesData.tasaUSD);
+    const tasaPARALELO = parseFloat(ratesData.tasaPARALELO);
 
     if (isNaN(tasaUSD)) {
         console.error('❌ La tasa en rates.json no es un número válido.');
@@ -81,6 +82,7 @@ async function actualizarHistorial() {
         tasaYUAN: tasaYUAN,
         tasaLIRA: tasaLIRA,
         tasaRUBLO: tasaRUBLO,
+        tasaPARALELO: tasaPARALELO,
         fecha_actualizacion: new Date().toISOString(),
     };
     historia[anio][mesNombre][dia] = valor;

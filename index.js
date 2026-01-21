@@ -13,11 +13,14 @@ const RATES_FILE = path.join(__dirname, 'rates.json');
 const agent = new https.Agent({ rejectUnauthorized: false });
 
 async function obtenerTasaBCV() {
-    const url = "https://www.bcv.org.ve/";
+    const urlBancoCentral = "https://www.bcv.org.ve/";
+    const urlApiParalelo = "https://ve.dolarapi.com/v1/dolares/paralelo";
     console.log('Iniciando Scraping del BCV...');
 
     try {
-        const response = await fetch(url, { agent });
+        const response = await fetch(urlBancoCentral, { agent });
+        const responseApiParalelo = await fetch(urlApiParalelo);
+        const TasaPARALELO = (await responseApiParalelo.json()).promedio;
         const html = await response.text();
         const $ = cheerio.load(html);
 
@@ -55,6 +58,7 @@ async function obtenerTasaBCV() {
             tasaYUAN: tasaYUAN,
             tasaLIRA: tasaLIRA,
             tasaRUBLO: tasaRUBLO,
+            tasaPARALELO: TasaPARALELO,
             fecha_actualizacion: new Date().toISOString(),
             mensaje_alerta: "" // Campo extra por si quieres comunicar algo urgente a la app
         };
