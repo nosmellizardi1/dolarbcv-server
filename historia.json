@@ -1533,6 +1533,17 @@
         "tasaPARALELO": 642.74,
         "fecha_actualizacion": "2026-04-30T00:12:39.103Z"
       }
+    },
+    "mayo": {
+      "1": {
+        "tasaUSD": 489.555,
+        "tasaEUR": 574.194,
+        "tasaYUAN": 71.705,
+        "tasaLIRA": 10.835,
+        "tasaRUBLO": 6.534,
+        "tasaPARALELO": 629.9719,
+        "fecha_actualizacion": "2026-05-01T00:12:03.720Z"
+      }
     }
   }
 }
