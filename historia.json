@@ -1543,6 +1543,15 @@
         "tasaRUBLO": 6.534,
         "tasaPARALELO": 629.9719,
         "fecha_actualizacion": "2026-05-01T00:12:03.720Z"
+      },
+      "2": {
+        "tasaUSD": 489.555,
+        "tasaEUR": 574.194,
+        "tasaYUAN": 71.705,
+        "tasaLIRA": 10.835,
+        "tasaRUBLO": 6.534,
+        "tasaPARALELO": 632.0085,
+        "fecha_actualizacion": "2026-05-02T00:11:02.684Z"
       }
     }
   }
