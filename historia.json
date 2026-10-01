@@ -2893,6 +2893,17 @@
         "tasaPARALELO": 958.580188,
         "fecha_actualizacion": "2026-09-30T02:13:51.429Z"
       }
+    },
+    "octubre": {
+      "1": {
+        "tasaUSD": 860.175,
+        "tasaEUR": 976.841,
+        "tasaYUAN": 128.308,
+        "tasaLIRA": 17.548,
+        "tasaRUBLO": 10.302,
+        "tasaPARALELO": 954.553517,
+        "fecha_actualizacion": "2026-10-01T02:16:16.298Z"
+      }
     }
   }
 }
