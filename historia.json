@@ -3174,6 +3174,17 @@
         "tasaPARALELO": 993.118752,
         "fecha_actualizacion": "2026-10-31T02:36:09.299Z"
       }
+    },
+    "noviembre": {
+      "1": {
+        "tasaUSD": 889.575,
+        "tasaEUR": 991.254,
+        "tasaYUAN": 133.71,
+        "tasaLIRA": 17.81,
+        "tasaRUBLO": 11.017,
+        "tasaPARALELO": 985.392803,
+        "fecha_actualizacion": "2026-11-01T02:23:56.397Z"
+      }
     }
   }
 }
